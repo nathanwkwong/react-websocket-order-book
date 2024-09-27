@@ -1,6 +1,6 @@
 ## Description
 
-A simple order book UI display with React and websocket. Websocket API for the data: https://docs.kraken.com/api/docs/websocket-v2/book
+A simple order book UI display with React and websocket using public API from: https://docs.kraken.com/api/docs/websocket-v2/book
 
 ## Project setup
 
