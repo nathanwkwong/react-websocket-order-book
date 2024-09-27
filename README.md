@@ -1,6 +1,6 @@
 ## Description
 
-A simple order book UI display with React and websocket using public API from: https://docs.kraken.com/api/docs/websocket-v2/book
+A simple UI display for a order book for a crypto pair using React.js and websocket connecting to a [public API](https://docs.kraken.com/api/docs/websocket-v2/book) from a crypto exchange platform, Kraken.
 
 ## Project setup
 
