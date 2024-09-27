@@ -1,0 +1,16 @@
+.order-book-container {
+    margin-top: 10px;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+.order-book {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
